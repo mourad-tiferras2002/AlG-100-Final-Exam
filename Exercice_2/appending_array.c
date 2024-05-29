@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
-* appand_arr- a func that add the first arry to the second
-* @A: pointer to tha array A
-* @B: pointer to the array B
-* @N: the length of the array A
-* @M: the length of the array B
+* appand_arr: a func that add the first arry to the second
+* @A - pointer to tha array A
+* @B - pointer to the array B
+* @N - the length of the array A
+* @M - the length of the array B
 **/
 
 void appand_arr(int *A, int *B, int N, int M) {
