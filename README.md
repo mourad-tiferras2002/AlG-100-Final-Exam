@@ -14,7 +14,9 @@
 ### 3. Implement the merge sort algorithm. This algorithm divides the list into two, recursively sorts each sublist, and then merges the two sorted sublists.
 
 ## Exercise 2:
-### Write a program that reads two arrays A and B and their dimensions N and M from the keyboard
-and adds the elements of B to the end of A. Use the pointer formalism whenever possible.
+
+### Write a program that reads two arrays A and B and their dimensions N and M from the keyboard and adds the elements of B to the end of A. Use the pointer formalism whenever possible.
+
 ## Exercise 3:
-Write a C program that calculates the length of a string using a pointer.
+
+### Write a C program that calculates the length of a string using a pointer.
